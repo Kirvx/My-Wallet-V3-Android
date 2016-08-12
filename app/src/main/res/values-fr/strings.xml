@@ -266,7 +266,7 @@
     <string name="VERIFY_BACKUP">VÉRIFIER LA SAUVEGARDE</string>
     <string name="Word">Mot</string>
     <string name="of">de</string>
-    <string name="backup_confirmed">Sauvegarde confirmé</string>
+    <string name="backup_confirmed">Sauvegarde confirmée</string>
     <string name="backup_word_mismatch">Mot non concordant</string>
     <string name="backup_days_ago">Vous avez sauvegardé votre portefeuille il y a  %1$s %2$s</string>
     <string name="day">jour</string>
